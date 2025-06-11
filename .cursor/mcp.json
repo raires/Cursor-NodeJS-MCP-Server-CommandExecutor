@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "command-executor": {
+            "command": "node",
+            "args": ["./mcp-server-command-executor.js"]
+        }
+    }
+}
